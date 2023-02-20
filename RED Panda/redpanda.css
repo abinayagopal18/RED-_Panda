@@ -1,0 +1,70 @@
+.bg{
+    background-color: black;
+    color: white;
+    font-family: Tahoma;
+}
+.nav-link{
+    color: red;
+    font-family: Bradley Hand;
+    font-size: xx-large;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+p{
+    color: red;
+    font-family: Bradley Hand ;
+}
+h1{
+color: red;
+font-family: 'Times New Roman', Times, serif;
+}
+gn{
+    height: 10cm;
+    width: 10cm;
+    color: white;
+}
+#bye
+{
+    background-color: rgb(40, 40, 48);
+    width: 50%;
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+hr{
+    color: white;
+}
+.popup{
+    width: 400px;
+    background-color: black;
+    border-radius: 6px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    text-align: center;
+    padding: 0 30px 30px;
+}
+.popup img{
+    width: 300px;
+    margin-top:-50px;
+    border-radius: 50%;
+}
+.popup h2{
+    font-size: 38px;
+    font-weight: 500;
+    margin: 30px 0 10px;
+}
+.popup button{
+    width: 100%;
+    margin-top: 50px;
+    padding:10px 0;
+    background-color: red;
+    color: white;
+    border: 0;
+    outline: none;
+    font-size:18px;
+border-radius: 4px;
+cursor:pointer;
+}
